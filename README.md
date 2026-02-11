@@ -40,7 +40,7 @@ I am a **Junior Developer** from 🇵🇾 **Paraguay** in continuous development
 
 ### 📈 Estadísticas / Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=da21nny&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://metrics.lecoq.io/Da21nny?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage" alt="Metrics" />
 </p>
 
 ---
