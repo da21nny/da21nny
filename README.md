@@ -16,9 +16,9 @@ Soy un **Desarrollador Junior** de 🇵🇾 **Paraguay** en constante crecimient
 - 🔭 **Actualmente:** Perfeccionando mis habilidades en múltiples lenguajes y estructuras de datos.
 
 ### 🛠️ Tecnologías y Lenguajes
-| Lenguajes | Frontend | Herramientas |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
+| Lenguajes | Frontend | Backend & DB | Herramientas |
+| :--- | :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) <br> ![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?logo=google&logoColor=white) |
 
 ---
 
@@ -32,10 +32,9 @@ I am a **Junior Developer** from 🇵🇾 **Paraguay** in continuous development
 - 🔭 **Currently:** Sharpening my skills in multiple languages and data structures.
 
 ### 🛠️ Technologies and Languages
-| Languages ​​| Interface | Tools |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
-
+| Languages | Frontend | Backend & DB | Tools |
+| :--- | :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) <br> ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) <br> ![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?logo=google&logoColor=white) |
 ---
 
 ### 📊 Actividad y Estadísticas / Activity & Stats
