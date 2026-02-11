@@ -38,11 +38,26 @@ I am a **Junior Developer** from 🇵🇾 **Paraguay** in continuous development
 
 ---
 
-### 📈 Estadísticas / Stats
-<p align="left">
-  <img src="https://metrics.lecoq.io/Da21nny?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.sections=most-used&languages.details=percentage" alt="Metrics" />
+### 📊 Actividad y Estadísticas / Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Da21nny&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Da21nny&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Da21nny&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
+
+### 💻 Top Tecnologías (Dinámico)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Da21nny&theme=tokyonight" width="400px" alt="Most Used Languages" />
+</p>
 ---
 
 ### 🔗 ¡Conectemos! / Let's Connect!
