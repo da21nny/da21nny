@@ -40,7 +40,7 @@ I am a **Junior Developer** from 🇵🇾 **Paraguay** in continuous development
 
 ### 📊 Actividad y Estadísticas / Activity & Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Da21nny&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Da21nny&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
