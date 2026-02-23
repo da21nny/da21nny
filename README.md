@@ -1,4 +1,4 @@
-# ¡Hola! Soy Edgar Vega 👋 (Da21nny)
+# ¡Hola! Soy Edgar Vega (Da21nny)
 
 <p align="center">
   <img src="Banner_Da21nny.jpg" alt="Edgar Vega Banner" width="100%">
