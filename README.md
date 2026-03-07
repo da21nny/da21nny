@@ -9,7 +9,7 @@
 ## 🇪🇸 Versión en Español
 
 ### 👨‍💻 Sobre mí
-Soy un **Desarrollador Junior** de 🇵🇾 **Paraguay** en constante crecimiento. Mi enfoque está en escribir código limpio y eficiente mientras exploro nuevas fronteras tecnológicas. Me apasiona **compartir conocimiento** y debatir sobre las últimas tendencias del sector.
+Soy un **Desarrollador de Software** de 🇵🇾 **Paraguay** en constante crecimiento. Mi enfoque está en escribir código limpio y eficiente mientras exploro nuevas fronteras tecnológicas. Me apasiona **compartir conocimiento** y debatir sobre las últimas tendencias del sector.
 
 - 🗣️ **Idiomas:** Español (Nativo) e Inglés (Básico).
 - 🤝 **Intereses:** Colaboración en proyectos de código abierto, lógica de programación y desarrollo web.
@@ -25,7 +25,7 @@ Soy un **Desarrollador Junior** de 🇵🇾 **Paraguay** en constante crecimient
 ## 🇺🇸 English Version
 
 ### 👨‍💻 About Me
-I am a **Junior Developer** from 🇵🇾 **Paraguay** in continuous development. My focus is on writing clean, efficient code while exploring new technological frontiers. I am passionate about **sharing knowledge** and discussing the latest industry trends.
+I am a **Software Developer** from 🇵🇾 **Paraguay** in continuous development. My focus is on writing clean, efficient code while exploring new technological frontiers. I am passionate about **sharing knowledge** and discussing the latest industry trends.
 
 - 🗣️ **Languages:** Spanish (Native) and English (Basic).
 - 🤝 **Interests:** Collaborating on open-source projects, programming logic, and web development.
