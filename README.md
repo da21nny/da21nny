@@ -1,7 +1,7 @@
 # ¡Hola! Soy Edgar Vega (Da21nny)
 
 <p align="center">
-  <img src="Banner_Da21nny.jpg?v=1" alt="Edgar Vega Banner" width="100%">
+  <img src="Banner_Da21nny.jpg?v=2" alt="Edgar Vega Banner" width="100%">
 </p>
 
 ---
